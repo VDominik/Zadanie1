@@ -1,1 +1,2 @@
 databazy - aplikácia bude pracovat s databázami.
+2021
