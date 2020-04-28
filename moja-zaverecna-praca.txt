@@ -1,1 +1,1 @@
-databazy
+databazy - aplikácia bude pracovat s databázami.
